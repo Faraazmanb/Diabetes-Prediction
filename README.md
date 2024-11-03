@@ -1,6 +1,6 @@
 # **Diabetes Prediction Model Using SVM with Streamlit Deployment**
 
-### ** To Run **
+### **To Run**
 
 - Clone the repo
 - Set Up Your Environment: Make sure you have Python 3.x installed on your system. It's a good practice to create a virtual environment for this project.
